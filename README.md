@@ -2,7 +2,7 @@
 - 📚 I am currently a master's student of software engineering at Western University, ON🇨🇦
 - 🌱 I’m currently learning React JavaScript library
 - 🎓 BEng from NSIT, University of Delhi🇮🇳
-- ⚡ Fun fact: Love to workout everyday
+- ⚡ Fun fact: I love to workout everyday and play chess♟
 - 📍London, Ontario🇨🇦
 
 ### How to reach me:
